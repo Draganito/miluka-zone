@@ -17,7 +17,8 @@ Individuals and non-profit educational organizations may download, CNC-mill or 3
 No commercial use, distribution, or use by other organizations.
 AS IS, WITHOUT WARRANTY.
 
-
+![Alt text](https://github.com/Draganito/miluka-zone/blob/main/real1.jpeg)
+![Alt text](https://github.com/Draganito/miluka-zone/blob/main/real2.jpeg)
 ![Alt text](https://github.com/Draganito/miluka-zone/blob/main/miluka_back.jpeg)
 ![Alt text](https://github.com/Draganito/miluka-zone/blob/main/miluka_front.jpeg
 )
